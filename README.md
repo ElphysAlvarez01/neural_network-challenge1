@@ -42,4 +42,4 @@ After evaluating the model, we save it to a file named student_loans.keras. This
 **Step 6: Classification Report**
 Finally, we generate a classification report using the test data and the model's predictions. This report provides detailed metrics on the model's performance, including precision, recall, and F1-score.
 
-![](C:\\M18_student_loans_deeplearning\classification_report_image.PNG)
+![](classification_report_image.PNG)
