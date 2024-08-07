@@ -11,7 +11,7 @@
 - numpy
 - matplotlib
 
-## $${\color{blue}Steps }$$
+## $${\color{blue}Project \space Steps: }$$
 
 **Step 1: Data Preprocessing**
 In this step, the dataset is loaded and cleaned by handling missing values and encoding categorical variables. We also split the data into training and testing sets.
@@ -44,7 +44,7 @@ Finally, we generate a classification report using the test data and the model's
 
 ![](classification_report_image.PNG)
 
-### The classification report provides key metrics for evaluating the performance of a classification model:
+### $${\color{blue}The \space classification \space report \space provides \space key \space metrics \space for \space evaluating \space the \space performance \space of \space a \space classification \space model}$$
 
 **Precision: Measures the accuracy of the positive predictions.**
 > For class 0, it's 0.71, meaning 71% of the predicted 0s were correct. For class 1, it's 0.83, meaning 83% of the predicted 1s were correct.
