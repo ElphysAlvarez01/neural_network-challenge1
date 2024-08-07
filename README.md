@@ -58,4 +58,4 @@ Finally, we generate a classification report using the test data and the model's
 **Support: The number of actual instances in each class.**  
 > There are 180 instances of class 0 and 220 of class 1.
 
-> Overall, the model has an accuracy of 0.77, meaning it correctly predicted 77% of the total instances. The macro average and weighted average F1-scores are also 0.77, indicating consistent performance across both classes. The macro average treats all classes equally, while the weighted average takes the support (number of instances) of each class into account.
+Overall, the model has an accuracy of 0.77, meaning it correctly predicted 77% of the total instances. The macro average and weighted average F1-scores are also 0.77, indicating consistent performance across both classes. The macro average treats all classes equally, while the weighted average takes the support (number of instances) of each class into account.
