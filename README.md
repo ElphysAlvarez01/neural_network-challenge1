@@ -1,4 +1,4 @@
-# Student Loans Default Prediction
+#  $${\color{blue}Student \space Loans \space Default \space Prediction}$$
 
 ## Project Summary
 > This project aims to build an ML model to predict whether a student loan will default. Using a dataset of student loans, the model is trained to understand patterns and factors that contribute to loan defaults. This prediction can help financial institutions and students make more informed decisions.
@@ -11,7 +11,7 @@
 - numpy
 - matplotlib
 
-## Steps
+## $${\color{blue}Steps }$$
 
 **Step 1: Data Preprocessing**
 In this step, the dataset is loaded and cleaned by handling missing values and encoding categorical variables. We also split the data into training and testing sets.
